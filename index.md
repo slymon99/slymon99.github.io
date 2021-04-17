@@ -12,7 +12,7 @@ exclude: true
 
 # Hi! My name is Simon.
 
-I'm a computer science major at <a href="https://www.northeastern.edu">Northeastern University</a> looking for full time opportunities for Q1 2022.
+I'm a computer science major at <a href="https://www.northeastern.edu">Northeastern University</a> looking for full time opportunities for 2022.
 
 This summer I'll be working at <a href ="http://www.seveneightcapital.com/"> Seven Eight Capital</a>. 
 
