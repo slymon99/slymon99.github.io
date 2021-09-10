@@ -12,12 +12,12 @@ exclude: true
 
 # Hi! My name is Simon.
 
-I'm a computer science major at <a href="https://www.northeastern.edu">Northeastern University</a> looking for full time opportunities for 2022.
+I'm a computer science major at <a href="https://www.northeastern.edu">Northeastern University</a> looking for full time opportunities for Q1 2022.
 
-This summer I'll be working at <a href ="http://www.seveneightcapital.com/"> Seven Eight Capital</a>. 
 
 Previously, I've worked at... 
 
+* <a href ="http://www.seveneightcapital.com/"> Seven Eight Capital</a>, building software platforms for quantitative researchers (and doing a little research myself)
 * <a href="https://www.facebook.com">Facebook</a>, re-building an e-commerce order fulfillment platform to be faster
 * <a href="https://www.fidelitylabs.com">Fidelity Labs</a>, building a fintech product for financial advisors
 * <a href="https://www.facebook.com">Facebook</a>, building tools to enable easier copyright enforcement 
